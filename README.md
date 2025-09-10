@@ -1,0 +1,2 @@
+# omnie
+Strona o mnie
